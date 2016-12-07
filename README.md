@@ -1,2 +1,2 @@
 # Equation-Solver
-Test Project
+Test project, nothing much.
